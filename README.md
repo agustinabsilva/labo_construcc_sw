@@ -1,5 +1,5 @@
 # labo_construcc_sw
-# 🌟 labo_construcc_sw 🌟
+# 🌟 Equipo 3 de Laboratorio de Construccion de Software 🌟
 
 <p align="center">
 
@@ -9,7 +9,7 @@
 
 ## 📜 Descripción
 
-> **Lorem ipsum dolor sit amet**, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+> **Repositorio oficial**, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ---
 
