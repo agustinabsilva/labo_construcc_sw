@@ -1,0 +1,55 @@
+Nombre,Habilidad,Nivel
+Majo,Python,5
+Majo,Java,5
+Ezequiel,Java,4
+Ezequiel,Assembler,4
+Majo,Python,3
+Majo,Java,3
+Majo,SQL,3
+Majo,Assembler,1
+Ezequiel,Python,1
+Leandro Gimenez,Java,3
+Leandro Gimenez,SQL,3
+Fernando,Java,3
+Pablo Da Silva,Java,3
+Pablo Da Silva,SQL,3
+Juan,Java,3
+Santiago Gonzalez,Python,1
+Matias Felipe Bianciotto,Python,2
+Matias Felipe Bianciotto,Java,2
+Matias Felipe Bianciotto,SQL,2
+Matias Felipe Bianciotto,Assembler,2
+Luis Alberto Spinetta,Assembler,5
+Cecilia Torales,Python,1
+Cecilia Torales,Java,1
+Cecilia Torales,SQL,1
+María José Ibacache,Python,3
+María José Ibacache,Java,3
+María José Ibacache,SQL,3
+Sam Altman,Python,5
+Sam Altman,Java,5
+Sam Altman,SQL,5
+Sam Altman,Assembler,5
+Billie Joe Armstrong,Python,1
+Billie Joe Armstrong,Java,1
+Billie Joe Armstrong,SQL,1
+Billie Joe Armstrong,Assembler,1
+Agustina Silva,Python,1
+Ivan de Pineda,SQL,4
+Ivan de Pineda,Assembler,4
+Diego,Python,3
+Diego,Java,3
+Diego,SQL,3
+Lautaro Moreno,Java,3
+Lautaro Moreno,SQL,3
+mw,Java,5
+mw,SQL,5
+La Papada de Milei,Python,5
+El Timbero Caputo,SQL,1
+Pezella,Assembler,5
+Llegaron las Pipshas,Python,3
+Llegaron las Pipshas,SQL,3
+Patricia Bullrich,Java,1
+Patricia Bullrich,SQL,1
+Patricia Bullrich,Assembler,1
+FanDeOrga,Assembler,5
